@@ -2,7 +2,7 @@ function setup() {
   createCanvas(400, 500);
   background(255, 204, 0); // Yellow background color
 
-  let largecircle= 18;
+  let largecircle= 10;
   let smallcircle = 6;
   let spacing = 30;
 
