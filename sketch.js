@@ -2,8 +2,8 @@ function setup() {
   createCanvas(400, 500);
   background(255, 204, 0); // Yellow background color
 
-  let largecircle= 10;
-  let smallcircle = 6;
+  let largecircle= 16;
+  let smallcircle = 8;
   let spacing = 30;
 
   // This snip of code arranges the first set of larger circles in a grid pattern
